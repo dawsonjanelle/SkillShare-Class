@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-
+#JANELLE
 body, html{
     font-family: 'Open Sans', sans-serif;
     padding: 0;
@@ -35,7 +35,6 @@ h4 {
     overflow: hidden;
 }
 
-    margin: 0;
 .hero-banner h1, .hero-banner h1 a {
     color: white;
     margin: 14px 0 20px;
