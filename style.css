@@ -6,8 +6,6 @@ body, html{
     margin: 0;
 }
 
-
-
 h1 {
     font-weight: 800;
     font-size: 50px;
@@ -37,11 +35,7 @@ h4 {
     overflow: hidden;
 }
 
-.hero-banner h4, .hero-banner h4 a {
-    color: white;
     margin: 0;
-}
-
 .hero-banner h1, .hero-banner h1 a {
     color: white;
     margin: 14px 0 20px;
@@ -51,6 +45,11 @@ h4 {
     color: white;
     margin: 0;
     margin: 0 0 35px;
+}
+
+.hero-banner h4, .hero-banner h4 a {
+    color: white;
+    margin: 0;
 }
 
 .character1 {
@@ -66,16 +65,16 @@ h4 {
     background: url(characters/hat-guy.png) no-repeat 0 0;
     background-size: 100%;
     width: 309px;
-    height: 371px;
-    position: absolute; top: 213px; right: 277px;
+    height: 420px;
+    position: absolute; top: 213px; right: 340px;
 }
 
 .character3 {
     background: url(characters/eish-guy.png) no-repeat 0 0;
     background-size: 100%;
-    width: 297;
-    height: 286;
-    position: absolute; top: 74px; right: 109px;
+    width: 297px;
+    height: 400px;
+    position: absolute; top: 250px; right: 109px;
 }
 
 a.cta, button.cta{
